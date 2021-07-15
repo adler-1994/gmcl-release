@@ -1,0 +1,15 @@
+ros-noetic-gmcl (1.0.1-2focal) focal; urgency=high
+
+  * avoid dividing by zero when setting either of energy map resolutions to zero.
+  * change message names to be more appropriate.
+
+ -- Mhd Ali Alshikh Khalil <adler1994@gmail.com>  Thu, 01 Jul 2021 21:00:00 -0000
+
+ros-noetic-gmcl (1.0.0-2focal) focal; urgency=high
+
+  * GMCL package has been released............
+  * AMCL version 1.17.1......
+
+ -- Mhd Ali Alshikh Khalil <adler1994@gmail.com>  Sat, 26 Jun 2021 21:00:00 -0000
+
+
